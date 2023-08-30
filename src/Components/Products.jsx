@@ -1,9 +1,8 @@
 import React from "react";
 
-function Home () {
+function Products () {
     return( 
         <div>
-        <h1>Home</h1>
         
         </div>
 
@@ -12,4 +11,4 @@ function Home () {
     )
 };
 
-export default Home;
+export default Products;

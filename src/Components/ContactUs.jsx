@@ -1,9 +1,9 @@
 import React from "react";
 
-function Home () {
+function ContactUs () {
     return( 
         <div>
-        <h1>Home</h1>
+        
         
         </div>
 
@@ -12,4 +12,4 @@ function Home () {
     )
 };
 
-export default Home;
+export default ContactUs;
