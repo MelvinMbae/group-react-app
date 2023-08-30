@@ -1,0 +1,6 @@
+.product-card {
+  border: solid 2px lightgray;
+  border-radius: 10px;
+
+  width: 400px;
+}

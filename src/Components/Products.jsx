@@ -2,7 +2,10 @@ import React from "react";
 
 function Products () {
     return( 
-        <div>
+        <div className= "product-card">
+            <div >
+
+            </div>
         
         </div>
 

@@ -1,9 +1,17 @@
 import React from "react";
 
-function Home () {
+function Home (props) {
+
+    console.log(props)
     return( 
-        <div>
-        <h1>Home</h1>
+        <div className="main-image">
+            <h2>{props.storename}</h2>
+            <img src= {props.storeimage} alt="Pic of lady shopping"/> 
+            
+
+
+
+      
         
         </div>
 
